@@ -1,6 +1,8 @@
 [blog]
 https://my.csdn.net/dog250
 https://blog.csdn.net/fuzhongmin05/article/details/71001857 (Singleton)
+http://www.cnblogs.com/xdp-gacl/p/3633936.html (Thread 1)
+https://www.cnblogs.com/xdp-gacl/p/3634382.html (Thread 2)
 
 [GDB]
 https://deepzz.com/post/gdb-debug.html#toc_27
