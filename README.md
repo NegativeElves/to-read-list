@@ -17,3 +17,6 @@ http://fiandes.io/vim-configuration-for-happy-java-coding/
 
 [Design Pattern]
 https://java-design-patterns.com/
+
+[面试题]
+http://www.cnblogs.com/wang-meng/p/5898837.html
