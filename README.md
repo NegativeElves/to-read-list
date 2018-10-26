@@ -1,5 +1,6 @@
 [blog]
 https://my.csdn.net/dog250
+https://blog.csdn.net/fuzhongmin05/article/details/71001857 (Singleton)
 
 [GDB]
 https://deepzz.com/post/gdb-debug.html#toc_27
@@ -11,3 +12,6 @@ https://www.zhihu.com/question/23277575
 [VIM for Java]
 https://blog.csdn.net/fxy832231/article/details/60904908
 http://fiandes.io/vim-configuration-for-happy-java-coding/
+
+[Design Pattern]
+https://java-design-patterns.com/
